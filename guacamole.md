@@ -1,7 +1,7 @@
 # Guacalome
 ## Ingredients
 -An avacado
--A lemon
+-Lima
 -A pepper
 -Salt
 
