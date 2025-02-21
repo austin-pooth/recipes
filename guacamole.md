@@ -1,10 +1,11 @@
 # Guacalome
+
 ## Ingredients
 
--An avacado
--Lima
--A pepper
--Salt
+ -An avacado
+ -Lima
+ -A pepper
+ -Salt
 
 ## Instructions
--Make it
+ -Make it
