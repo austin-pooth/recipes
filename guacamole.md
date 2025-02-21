@@ -8,4 +8,4 @@
  - Salt
 
 ## Instructions
- -Make it
+ - Combine all ingredients
